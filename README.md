@@ -1,0 +1,1 @@
+This repository was engineered, for my Research Paper regarding the intersection of Chronic Pain and AI, you can access all the questionnaires used, the question pools, the code for the model, and the link to the Gradio Interface
